@@ -1,0 +1,36 @@
+{
+  "title": "NOTIFICATION LETTER",
+  "header": {
+    "institution": "Pusat Bahasa Universitas Andalas",
+    "subtitle": "(Language Centre of Andalas University)",
+    "address": "Gedung Pusat Bahasa Unand, Kampus Limau Manis, Padang 25163 Telp. /Fax. (0751) 72907",
+    "website": "web: lc.unand.ac.id",
+    "email": "email: pusatbahasa@unand.ac.id"
+  },
+  "body": {
+    "certification": "We hereby certify that",
+    "name": "Erha Meuthia Kautsar Paramarta",
+    "test_info": "followed Andalas University Prediction Test for the TOEFL® Test on May 8, 2024 at the Language Center (UPT Pusat Bahasa) of Andalas University, and is entitled the following score :",
+    "score_section": {
+      "section_1": {
+        "title": "Section 1 : Listening Comprehension",
+        "score": 53
+      },
+      "section_2": {
+        "title": "Section 2 : Structure and Written Expression",
+        "score": 47
+      },
+      "section_3": {
+        "title": "Section 3 : Reading Comprehension",
+        "score": 45
+      }
+    },
+    "total_score": "The Score : 483",
+    "date": "Padang, May 15, 2024",
+    "director": "Dr. Sawyrian, M.Hum.",
+    "nip": "NIP. 188689030200031001"
+  },
+  "footer": {
+    "note": "TOEFL® is a registered trademark of Educational Testing Service (ETS). This program is not endorsed or approved by ETS. TOEFL score is valid for two years after the test date."
+  }
+}
